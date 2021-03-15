@@ -1,0 +1,9 @@
+{
+	"weather": {
+		"city": "Караганда",
+		"enabled": true
+	},
+	"corona": true,
+	"course": false,
+	"h24": true
+}
